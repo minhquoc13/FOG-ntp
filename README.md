@@ -1,7 +1,7 @@
 <h1 align="center"><span><img src="https://img.shields.io/badge/Hi%20there%20,I'm%20Thanh%20Phong-282C34?logo=Plausible%20Analytics&logoColor=5850EC" alt="HTML5 logo" title="HTML5" height="45" /></span>
 </h1>
 
-<h2 align="center">Technologies and Tools</h2>
+<h2 align="center"> ⚙️ Technologies and Tools</h2>
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-282C34?style=for-the-badge&logo=html5&logoColor=E34F26" />
@@ -16,10 +16,12 @@
 <img src="https://img.shields.io/badge/gulp-282C34?style=for-the-badge&logo=gulp&logoColor=CF4647" />
 <img src="https://img.shields.io/badge/pug-282C34?style=for-the-badge&logo=pug&logoColor=A86454" />
 <img src="https://img.shields.io/badge/react-282C34?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React%20Router-282C34?style=for-the-badge&logo=React%20Router&logoColor=CA4245" />
 <img src="https://img.shields.io/badge/material%20ui-282C34?style=for-the-badge&logo=mui&logoColor=007FFF"/>
 <img src="https://img.shields.io/badge/Ant%20Design-282C34?style=for-the-badge&logo=Ant%20Design&logoColor=0170FE"/>
-<img src="https://img.shields.io/badge/Chakra%20UI-282C34?style=for-the-badge&logo=Chakra%20UI&logoColor=319795"/>
 <br>
+<img src="https://img.shields.io/badge/Chakra%20UI-282C34?style=for-the-badge&logo=Chakra%20UI&logoColor=319795"/>
+
 <img src="https://img.shields.io/badge/Firebase-282C34?style=for-the-badge&logo=Firebase&logoColor=FFCA28"/>
 <img src="https://img.shields.io/badge/vite-282C34?style=for-the-badge&logo=vite&logoColor=646CFF"/>
 <img src="https://img.shields.io/badge/postman-282C34?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
@@ -29,7 +31,7 @@
 <!-- https://simpleicons.org/ -->
 
 
-<h2 align="center">Next Time</h2>
+<h2 align="center">🎯 Next Time</h2>
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/Next.js-282C34?style=for-the-badge&logo=Next.js&logoColor=ffffff" />
@@ -40,13 +42,17 @@
 <img src="https://img.shields.io/badge/Node.js-282C34?style=for-the-badge&logo=Node.js&logoColor=339933" />
 <img src="https://img.shields.io/badge/React%20Query-282C34?style=for-the-badge&logo=React%20Query&logoColor=FF4154" />
 <img src="https://img.shields.io/badge/Vue.js-282C34?style=for-the-badge&logo=Vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Nuxt.js-282C34?style=for-the-badge&logo=Nuxt.js&logoColor=#00DC82" />
 <img src="https://img.shields.io/badge/Vuetify-282C34?style=for-the-badge&logo=Vuetify&logoColor=1867C0" />
 <img src="https://img.shields.io/badge/Buefy-282C34?style=for-the-badge&logo=Buefy&logoColor=7957D5" />
 <img src="https://img.shields.io/badge/Svelte-282C34?style=for-the-badge&logo=Svelte&logoColor=FF3E00" />
+<img src="https://img.shields.io/badge/-SvelteKit-282C34?style=for-the-badge&logo=Svelte&logoColor=white" />
 <img src="https://img.shields.io/badge/Blogger-282C34?style=for-the-badge&logo=Blogger&logoColor=FF5722" />
 <img src="https://img.shields.io/badge/WordPress-282C34?style=for-the-badge&logo=WordPress&logoColor=21759B" />
 <img src="https://img.shields.io/badge/TypeScript-282C34?style=for-the-badge&logo=TypeScript&logoColor=3178C6" />
-
+<img src="https://img.shields.io/badge/JSON%20Web%20Tokens-282C34?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Three.js-282C34?style=for-the-badge&logo=Three.js&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Socket.io-282C34?style=for-the-badge&logo=Socket.io&logoColor=ffffff" />
 </p>
 
 
