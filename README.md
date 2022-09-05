@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Firebase-282C34?style=for-the-badge&logo=Firebase&logoColor=FFCA28"/>
 <img src="https://img.shields.io/badge/vite-282C34?style=for-the-badge&logo=vite&logoColor=646CFF"/>
 <img src="https://img.shields.io/badge/postman-282C34?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+
 </p>
 
 <!-- https://simpleicons.org/ -->
@@ -41,6 +42,9 @@
 <img src="https://img.shields.io/badge/Vue.js-282C34?style=for-the-badge&logo=Vue.js&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/Vuetify-282C34?style=for-the-badge&logo=Vuetify&logoColor=1867C0" />
 <img src="https://img.shields.io/badge/Buefy-282C34?style=for-the-badge&logo=Buefy&logoColor=7957D5" />
+<img src="https://img.shields.io/badge/Svelte-282C34?style=for-the-badge&logo=Svelte&logoColor=FF3E00" />
+<img src="https://img.shields.io/badge/Blogger-282C34?style=for-the-badge&logo=Blogger&logoColor=FF5722" />
+<img src="https://img.shields.io/badge/WordPress-282C34?style=for-the-badge&logo=WordPress&logoColor=21759B" />
 <img src="https://img.shields.io/badge/Svelte-282C34?style=for-the-badge&logo=Svelte&logoColor=FF3E00" />
 
 </p>
