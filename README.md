@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/Svelte-282C34?style=for-the-badge&logo=Svelte&logoColor=FF3E00" />
 <img src="https://img.shields.io/badge/Blogger-282C34?style=for-the-badge&logo=Blogger&logoColor=FF5722" />
 <img src="https://img.shields.io/badge/WordPress-282C34?style=for-the-badge&logo=WordPress&logoColor=21759B" />
-<img src="https://img.shields.io/badge/Svelte-282C34?style=for-the-badge&logo=Svelte&logoColor=FF3E00" />
+<img src="https://img.shields.io/badge/TypeScript-282C34?style=for-the-badge&logo=TypeScript&logoColor=3178C6" />
 
 </p>
 
