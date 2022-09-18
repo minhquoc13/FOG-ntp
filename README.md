@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/Firebase-282C34?style=for-the-badge&logo=Firebase&logoColor=FFCA28"/>
 <img src="https://img.shields.io/badge/vite-282C34?style=for-the-badge&logo=vite&logoColor=646CFF"/>
 <img src="https://img.shields.io/badge/postman-282C34?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/JEST-282C34?style=for-the-badge&logo=jest&logoColor=C21325"/>
 
 </p>
 
