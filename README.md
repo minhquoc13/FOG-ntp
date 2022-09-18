@@ -42,6 +42,8 @@
 <img src="https://img.shields.io/badge/vite-282C34?style=for-the-badge&logo=vite&logoColor=646CFF"/>
 <img src="https://img.shields.io/badge/postman-282C34?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 <img src="https://img.shields.io/badge/JEST-282C34?style=for-the-badge&logo=jest&logoColor=C21325"/>
+<img src="https://img.shields.io/badge/npm-282C34?style=for-the-badge&logo=npm&logoColor=CB3837"/>
+<img src="https://img.shields.io/badge/yarn-282C34?style=for-the-badge&logo=yarn&logoColor=2C8EBB"/>
 
 </p>
 
