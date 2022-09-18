@@ -39,9 +39,11 @@
 <img src="https://img.shields.io/badge/material%20ui-282C34?style=for-the-badge&logo=mui&logoColor=007FFF"/>
 <img src="https://img.shields.io/badge/Ant%20Design-282C34?style=for-the-badge&logo=Ant%20Design&logoColor=0170FE"/>
 <img src="https://img.shields.io/badge/Chakra%20UI-282C34?style=for-the-badge&logo=Chakra%20UI&logoColor=319795"/>
+<br>
 <img src="https://img.shields.io/badge/Firebase-282C34?style=for-the-badge&logo=Firebase&logoColor=FFCA28"/>
 <img src="https://img.shields.io/badge/vite-282C34?style=for-the-badge&logo=vite&logoColor=646CFF"/>
 <img src="https://img.shields.io/badge/postman-282C34?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<br>
 <img src="https://img.shields.io/badge/JEST-282C34?style=for-the-badge&logo=jest&logoColor=C21325"/>
 <img src="https://img.shields.io/badge/npm-282C34?style=for-the-badge&logo=npm&logoColor=CB3837"/>
 <img src="https://img.shields.io/badge/yarn-282C34?style=for-the-badge&logo=yarn&logoColor=2C8EBB"/>
