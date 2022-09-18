@@ -29,11 +29,12 @@
 <img src="https://img.shields.io/badge/SASS-282C34?style=for-the-badge&logo=sass&logoColor=CC6699" />
 <img src="https://img.shields.io/badge/gulp-282C34?style=for-the-badge&logo=gulp&logoColor=CF4647" />
 <img src="https://img.shields.io/badge/pug-282C34?style=for-the-badge&logo=pug&logoColor=A86454" />
-  <img src="https://img.shields.io/badge/Bootstrap-282C34?style=for-the-badge&logo=Bootstrap&logoColor=7952B3" />
+ <img src="https://img.shields.io/badge/Bootstrap-282C34?style=for-the-badge&logo=Bootstrap&logoColor=7952B3" />
 <img src="https://img.shields.io/badge/materialize%20css-282C34?style=for-the-badge&logo=Matomo&logoColor=EF2D5E" />
 <img src="https://img.shields.io/badge/Bulma-282C34?style=for-the-badge&logo=Bulma&logoColor=00D1B2" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?style=for-the-badge&logo=Tailwind%20CSS&logoColor=06B6D4" />
 <img src="https://img.shields.io/badge/react-282C34?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/styled%20components-282C34?style=for-the-badge&logo=styled%20components&logoColor=DB7093"/>
 <img src="https://img.shields.io/badge/React%20Router-282C34?style=for-the-badge&logo=React%20Router&logoColor=CA4245" />
 <img src="https://img.shields.io/badge/material%20ui-282C34?style=for-the-badge&logo=mui&logoColor=007FFF"/>
 <img src="https://img.shields.io/badge/Ant%20Design-282C34?style=for-the-badge&logo=Ant%20Design&logoColor=0170FE"/>
