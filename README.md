@@ -25,14 +25,16 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <img src="https://img.shields.io/badge/HTML5-282C34?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-282C34?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/Bootstrap-282C34?style=for-the-badge&logo=Bootstrap&logoColor=7952B3" />
-<img src="https://img.shields.io/badge/materialize%20css-282C34?style=for-the-badge&logo=Matomo&logoColor=EF2D5E" />
-<img src="https://img.shields.io/badge/Bulma-282C34?style=for-the-badge&logo=Bulma&logoColor=00D1B2" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?style=for-the-badge&logo=Tailwind%20CSS&logoColor=06B6D4" />
 <img src="https://img.shields.io/badge/JavaScript-282C34?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E" />
+  <br>
+  <img src="https://img.shields.io/badge/Bootstrap-282C34?style=for-the-badge&logo=Bootstrap&logoColor=7952B3" />
 <img src="https://img.shields.io/badge/SASS-282C34?style=for-the-badge&logo=sass&logoColor=CC6699" />
 <img src="https://img.shields.io/badge/gulp-282C34?style=for-the-badge&logo=gulp&logoColor=CF4647" />
 <img src="https://img.shields.io/badge/pug-282C34?style=for-the-badge&logo=pug&logoColor=A86454" />
+  <br>
+<img src="https://img.shields.io/badge/materialize%20css-282C34?style=for-the-badge&logo=Matomo&logoColor=EF2D5E" />
+<img src="https://img.shields.io/badge/Bulma-282C34?style=for-the-badge&logo=Bulma&logoColor=00D1B2" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?style=for-the-badge&logo=Tailwind%20CSS&logoColor=06B6D4" />
 <img src="https://img.shields.io/badge/react-282C34?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React%20Router-282C34?style=for-the-badge&logo=React%20Router&logoColor=CA4245" />
 <img src="https://img.shields.io/badge/material%20ui-282C34?style=for-the-badge&logo=mui&logoColor=007FFF"/>
